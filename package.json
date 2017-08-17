@@ -1,0 +1,26 @@
+{
+  "name": "react-native-alert-bar",
+  "version": "1.0.0",
+  "description": "show Alert Bar Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talor-a/react-native-alert-bar.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "alert",
+    "message",
+    "react-native-message-bar"
+  ],
+  "author": "Talor Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talor-a/react-native-alert-bar/issues"
+  },
+  "homepage": "https://github.com/talor-a/react-native-alert-bar#readme"
+}
